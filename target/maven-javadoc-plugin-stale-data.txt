@@ -1,0 +1,49 @@
+@options
+@packages
+-classpath
+'C:/Users/HP/.m2/repository/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/HP/Documents/Politechnika/JAVA/homophoniccipherANDY_wGUI/homophoniccipherANDY_V1/homophoniccipherANDY_V1/homophoniccipherANDY/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/HP/Documents/Politechnika/JAVA/homophoniccipherANDY_wGUI/homophoniccipherANDY_V1/homophoniccipherANDY_V1/homophoniccipherANDY/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'homophoniccipherANDY 1.0 API'
+-use
+-version
+-windowtitle
+'homophoniccipherANDY 1.0 API'
+pl.polsl.controllerandreavelasquez
+pl.polsl.modelandreavelasquez
+pl.polsl.viewandreavelasquez
+C:\Users\HP\.m2\repository\org\apache\commons\commons-lang3\3.1\commons-lang3-3.1.jar = 1699809767603
+C:\Users\HP\Documents\Politechnika\JAVA\homophoniccipherANDY_wGUI\homophoniccipherANDY_V1\homophoniccipherANDY_V1\homophoniccipherANDY\src\main\java = 1700145619255
+C:\Users\HP\Documents\Politechnika\JAVA\homophoniccipherANDY_wGUI\homophoniccipherANDY_V1\homophoniccipherANDY_V1\homophoniccipherANDY\target\site\apidocs\allclasses-index.html = 1701386685496
+C:\Users\HP\Documents\Politechnika\JAVA\homophoniccipherANDY_wGUI\homophoniccipherANDY_V1\homophoniccipherANDY_V1\homophoniccipherANDY\target\site\apidocs\allpackages-index.html = 1701386685500
+C:\Users\HP\Documents\Politechnika\JAVA\homophoniccipherANDY_wGUI\homophoniccipherANDY_V1\homophoniccipherANDY_V1\homophoniccipherANDY\target\site\apidocs\element-list = 1701386685322
+C:\Users\HP\Documents\Politechnika\JAVA\homophoniccipherANDY_wGUI\homophoniccipherANDY_V1\homophoniccipherANDY_V1\homophoniccipherANDY\target\site\apidocs\help-doc.html = 1701386685552
+C:\Users\HP\Documents\Politechnika\JAVA\homophoniccipherANDY_wGUI\homophoniccipherANDY_V1\homophoniccipherANDY_V1\homophoniccipherANDY\target\site\apidocs\index-all.html = 1701386685539
+C:\Users\HP\Documents\Politechnika\JAVA\homophoniccipherANDY_wGUI\homophoniccipherANDY_V1\homophoniccipherANDY_V1\homophoniccipherANDY\target\site\apidocs\index.html = 1701386685473
+C:\Users\HP\Documents\Politechnika\JAVA\homophoniccipherANDY_wGUI\homophoniccipherANDY_V1\homophoniccipherANDY_V1\homophoniccipherANDY\target\site\apidocs\jquery-ui.overrides.css = 1701386685577
+C:\Users\HP\Documents\Politechnika\JAVA\homophoniccipherANDY_wGUI\homophoniccipherANDY_V1\homophoniccipherANDY_V1\homophoniccipherANDY\target\site\apidocs\member-search-index.js = 1701386685510
+C:\Users\HP\Documents\Politechnika\JAVA\homophoniccipherANDY_wGUI\homophoniccipherANDY_V1\homophoniccipherANDY_V1\homophoniccipherANDY\target\site\apidocs\module-search-index.js = 1701386685504
+C:\Users\HP\Documents\Politechnika\JAVA\homophoniccipherANDY_wGUI\homophoniccipherANDY_V1\homophoniccipherANDY_V1\homophoniccipherANDY\target\site\apidocs\overview-summary.html = 1701386685543
+C:\Users\HP\Documents\Politechnika\JAVA\homophoniccipherANDY_wGUI\homophoniccipherANDY_V1\homophoniccipherANDY_V1\homophoniccipherANDY\target\site\apidocs\overview-tree.html = 1701386685465
+C:\Users\HP\Documents\Politechnika\JAVA\homophoniccipherANDY_wGUI\homophoniccipherANDY_V1\homophoniccipherANDY_V1\homophoniccipherANDY\target\site\apidocs\package-search-index.js = 1701386685506
+C:\Users\HP\Documents\Politechnika\JAVA\homophoniccipherANDY_wGUI\homophoniccipherANDY_V1\homophoniccipherANDY_V1\homophoniccipherANDY\target\site\apidocs\script.js = 1701386685558
+C:\Users\HP\Documents\Politechnika\JAVA\homophoniccipherANDY_wGUI\homophoniccipherANDY_V1\homophoniccipherANDY_V1\homophoniccipherANDY\target\site\apidocs\search.js = 1701386685562
+C:\Users\HP\Documents\Politechnika\JAVA\homophoniccipherANDY_wGUI\homophoniccipherANDY_V1\homophoniccipherANDY_V1\homophoniccipherANDY\target\site\apidocs\serialized-form.html = 1701386685397
+C:\Users\HP\Documents\Politechnika\JAVA\homophoniccipherANDY_wGUI\homophoniccipherANDY_V1\homophoniccipherANDY_V1\homophoniccipherANDY\target\site\apidocs\stylesheet.css = 1701386685556
+C:\Users\HP\Documents\Politechnika\JAVA\homophoniccipherANDY_wGUI\homophoniccipherANDY_V1\homophoniccipherANDY_V1\homophoniccipherANDY\target\site\apidocs\tag-search-index.js = 1701386685513
+C:\Users\HP\Documents\Politechnika\JAVA\homophoniccipherANDY_wGUI\homophoniccipherANDY_V1\homophoniccipherANDY_V1\homophoniccipherANDY\target\site\apidocs\type-search-index.js = 1701386685508
